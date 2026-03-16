@@ -1,0 +1,28 @@
+Libraries Used in the Project
+Data Manipulation & Analysis:
+
+pandas: Used for loading the dataset (CSV), data cleaning, and feature engineering (calculating CTR, conversion rates, and CPC).
+
+numpy: Used for numerical operations and handling array-based data structures.
+
+Data Visualization:
+
+matplotlib.pyplot: Used for creating core plots and customizing chart aesthetics like labels, titles, and legends.
+
+seaborn: Used for advanced statistical data visualization to identify trends and distributions.
+
+Statistical & Machine Learning:
+
+scikit-learn (LinearRegression): Used to perform predictive modeling to understand the relationship between ad spend and conversions.
+
+statsmodels (seasonal_decompose): Used for time series analysis to identify seasonal trends in campaign performance between 2021 and 2024.
+
+Other Utilities:
+
+warnings: Used to filter and ignore non-critical warnings during code execution to maintain a clean notebook output.
+
+How to Install These Libraries
+If you are setting up your environment for the first time, you can install the necessary packages using:
+
+Bash
+pip install pandas numpy matplotlib seaborn scikit-learn statsmodels
