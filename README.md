@@ -1,9 +1,5 @@
 # Ad-Performance-Showdown: Facebook vs. Google Ads Analysis
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Data Analysis](https://img.shields.io/badge/Analysis-A/B%20Testing-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
 ## 📌 Project Overview
 This project focuses on a comparative **A/B Testing Analysis** between two major digital advertising platforms: **Facebook Ads** and **Google Ads (AdWords)**. The goal is to determine which platform provides better cost-efficiency and a higher Return on Investment (ROI) for a marketing agency managing multiple client campaigns.
 
@@ -51,7 +47,7 @@ By analyzing the metrics, this project identifies:
 
 ## 📂 Repository Structure
 ```bash
-├── data/                   # Dataset files
-├── Ad_Performance.ipynb     # Main Jupyter Notebook with analysis
+├── A_OR_B testing analysis/                  
+├── Ad Performance Analysis.ipynb     # Main Jupyter Notebook with analysis
 ├── README.md               # Project documentation
-└── requirements.txt        # Required libraries
+├── A_B_testing_dataset        # Dataset file
